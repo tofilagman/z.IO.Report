@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>z.IO.Report</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>tofilagman</authors>
+    <owners>tofilagman</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Reporting Tool And Helper for Crystal and SSRS</description>
+    <releaseNotes>First Release</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>Reporting app helper extension Reports SSRS Crystal</tags>
+  </metadata>
+</package>
